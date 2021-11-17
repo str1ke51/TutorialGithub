@@ -3,3 +3,5 @@ To jest plik stworzony na komputerze A
 Zmiana pierwsza w pliku A
 
 Zmiana druga w pliku A
+
+Zmiana trzecia w pliku A
