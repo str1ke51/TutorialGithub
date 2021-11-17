@@ -5,3 +5,5 @@ Zmiana pierwsza w pliku A
 Zmiana druga w pliku A
 
 Zmiana trzecia w pliku A
+
+Poważna czwarta zmiana w plika A
